@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/tony/workspace/github/tonytangdev/todo-app'
+let g:netrw_dirhist_1='/home/tony/workspace/github/tonytangdev'
+let g:netrw_dirhist_0='/home/tony/workspace/github'
+let g:netrw_dirhist_9='/home/tony/workspace'
+let g:netrw_dirhist_8='/home/tony'
+let g:netrw_dirhist_7='/home/tony/Documents'
+let g:netrw_dirhist_6='/home/tony'
+let g:netrw_dirhist_5='/home/tony/Desktop'
+let g:netrw_dirhist_4='/home/tony'
+let g:netrw_dirhist_3='/home/tony/workspace/github/tonytangdev/todo-app'
